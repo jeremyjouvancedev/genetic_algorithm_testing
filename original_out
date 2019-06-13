@@ -1,0 +1,1188 @@
+String Length:  20
+nEpochs:  101.0
+Population Size:  100
+Population Size:  200
+Population Size:  300
+nEpochs:  202.0
+Population Size:  100
+Population Size:  200
+Population Size:  300
+nEpochs:  303.0
+Population Size:  100
+Population Size:  200
+Population Size:  300
+String Length:  40
+nEpochs:  101.0
+Population Size:  100
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 100
+MutationProb: 0.1
+CrossOver: un
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.045
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 100
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.05
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 100
+MutationProb: 0.1
+CrossOver: un
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.0485
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 100
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.2
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 100
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.188
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 100
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.1
+100 124.0
+100 123.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 100
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.228
+Population Size:  200
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 200
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.3
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 200
+MutationProb: 0.1
+CrossOver: un
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.03125
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 200
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.2
+100 124.0
+100 123.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 200
+MutationProb: 0.1
+CrossOver: un
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.04525
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 200
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.45
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 200
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.55625
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 200
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.6
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 200
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.55825
+Population Size:  300
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 300
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.3
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 300
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.1
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 300
+MutationProb: 0.1
+CrossOver: un
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.0165
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 300
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.7
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 300
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.7528333333333334
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 300
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.5
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+100 124.0
+
+StringLength:  40
+nEpochs: 101.0
+PopulationSize: 300
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.602
+nEpochs:  202.0
+Population Size:  100
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 100
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.1
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 100
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.35
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 100
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.2
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 100
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.05
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 100
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.45
+Population Size:  200
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 200
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.2
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 200
+MutationProb: 0.1
+CrossOver: un
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.147
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 200
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.1
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 200
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.4
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 200
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.64975
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 200
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.35
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 200
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.75
+Population Size:  300
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 300
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.25
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 300
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.15
+100 120.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 300
+MutationProb: 0.1
+CrossOver: un
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.0085
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 300
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.75
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 300
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.7
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 300
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.65
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+100 124.0
+200 124.0
+
+StringLength:  40
+nEpochs: 202.0
+PopulationSize: 300
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.7996666666666666
+nEpochs:  303.0
+Population Size:  100
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 100
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.05
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 100
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.05
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 100
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.2
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 100
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.25
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 100
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.25
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 100
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.25
+Population Size:  200
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 200
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.15
+100 117.0
+200 118.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 200
+MutationProb: 0.1
+CrossOver: un
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.09075
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 200
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.05
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 200
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.35
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 200
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.45
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 200
+MutationProb: -1.0
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.7
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 200
+MutationProb: 0.1
+CrossOver: sp
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.55
+Population Size:  300
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 300
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.2
+100 119.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 300
+MutationProb: 0.1
+CrossOver: un
+NElite: 4
+Tournament: True
+Percentage reaching bonus:  0.05
+100 124.0
+200 124.0
+300 124.0
+100 124.0
+200 124.0
+300 124.0
+
+StringLength:  40
+nEpochs: 303.0
+PopulationSize: 300
+MutationProb: -1.0
+CrossOver: un
+NElite: 4
+Tournament: False
+Percentage reaching bonus:  0.1
